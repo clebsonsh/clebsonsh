@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clebson Moura
 - 💻 Currently working at Exata Tech has full stack developer
-- 🌱 Working mostily with PHP/Laravel, JS/Vue.js, MySQL/SQL
+- 🌱 Doing mostily PHP/Laravel, JS/Vue.js, MySQL/SQL
 - 📫 How to reach me clebson.sh@gmail.com
 
 <!---
